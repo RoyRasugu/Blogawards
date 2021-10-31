@@ -84,7 +84,7 @@ WSGI_APPLICATION = 'award_clone.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'awards',
+        'NAME': 'awards1',
         'USER': 'royrasugu',
         'PASSWORD': '987654',
     }
