@@ -1,11 +1,11 @@
-from rest_framework import fields, serializers
+from rest_framework import serializers
 from blog.models import Profile, Project
 
 class ProjectSerializer(serializers.ModelSerializer):
     class Meta:
         model = Project
         fields = [
-            "pk",
+            "ProjectId",
             "title", 
             "img_post", 
             "description",
@@ -18,7 +18,7 @@ class ProfileSerializer(serializers.ModelSerializer):
     class Meta:
         model = Profile
         fields = [
-            "pk",
+            "ProfileId",
             "user",
             "profile_pic",
             "bio",
