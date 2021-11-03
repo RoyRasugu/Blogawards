@@ -68,7 +68,11 @@ Open the application on your browser `127.0.0.1:8000`.
   
 * [Python3.8](https://www.python.org/)  
 * [Django 2.2](https://docs.djangoproject.com/en/2.2/)  
-* [Heroku](https://heroku.com)  
+* [Heroku](https://heroku.com)
+* PSQL database
+* JS
+* HTML
+* CSS  
   
   
 ## Known Bugs  
