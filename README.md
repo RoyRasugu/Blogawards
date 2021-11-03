@@ -26,7 +26,7 @@ To get the project .......
   
 ##### Cloning the repository:  
  ```bash 
- https://github.com/Owiti-Charles/project-awwards.git 
+ https://github.com/RoyRasugu/Blogawards.git
 ```
 ##### Navigate into the folder and install requirements  
  ```bash 
